@@ -14,3 +14,4 @@ deploy:
     app: snussum-dev
     on:
         repo: dobestan/snussum.com
+        all_branches: true
