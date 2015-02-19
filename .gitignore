@@ -55,3 +55,6 @@ target/
 
 # Autoenv
 .env
+
+# Rope Project
+.ropeproject/
